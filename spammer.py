@@ -4,7 +4,7 @@
 
 # spymer v9.0
 
-# Author: FSystem88
+# Author: DeNTLy
 
 import os
 
